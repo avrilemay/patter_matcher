@@ -1,8 +1,8 @@
-# PM_11 - Pattern Matcher in Lisp
+# Pattern Matcher in Lisp
 
 ## Overview
 
-This project implements a pattern matcher in Lisp, designed as part of the Algorithmics and Data Structures course. The system matches user inputs against predefined patterns to generate corresponding responses. It simulates an interaction with a fictional character, in this case, a politician named Fabien Roussel.
+This project implements a pattern matcher in Lisp. The system matches user inputs against predefined patterns to generate corresponding responses. It simulates an interaction with a fictional character, in this case, a politician named Fabien Roussel.
 
 ## Project Structure
 
